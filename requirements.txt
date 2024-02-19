@@ -1,0 +1,11 @@
+apify-client
+transformers
+streamlit
+nltk
+wordcloud
+textblob
+pandas
+numpy
+matplotlib
+requests
+torch
